@@ -10,12 +10,9 @@ AlphaChat is a Java-based desktop chat application designed to provide a simple 
 - **Encryption:** Ensures conversations remain private and secure.
 - **Cross-Platform:** Runs on any system with Java support.
 
-## 🖥️ Screenshots
+## 🖥️ Video
 
-<!-- Add screenshots of your application UI below -->
-<!-- Example:
-![Login Screen](screenshots/login.png)
-![Chat Window](screenshots/chat.png)
+
 -->
 
 ## 🔧 Tech Stack
